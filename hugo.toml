@@ -174,7 +174,7 @@ url = "uses/"
 name = "aboutMe"
 weight = 5
 url = "aboutme/"
-'''
+
 
 [languages.pt-br]
 languageName = "Telugu"
@@ -201,4 +201,4 @@ name = "Projects"
 weight = 3
 url = "projects/"
 
-'''
+

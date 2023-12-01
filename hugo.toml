@@ -1,5 +1,5 @@
 
-baseURL = "http://www.example.com"
+baseURL = "https://sreeraminsights.github.io/sree/"
 title = "Sreeram"
 theme = "hugo-coder"
 languageCode = "en"

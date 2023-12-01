@@ -171,9 +171,9 @@ weight = 3
 url = "uses.md"
 
 [[languages.en.menu.main]]
-name = "about"
+name = "aboutMe"
 weight = 5
-url = "about.md"
+url = "aboutme.md"
 
 [languages.pt-br]
 languageName = "Telugu"
@@ -186,9 +186,9 @@ author = "శ్రీరామ్ వెంకట"
 #keywords = "blog,desenvolvedor,pessoal"
 
 [[languages.pt-br.menu.main]]
-name = "about"
+name = "aboutMe"
 weight = 1
-url = "about.md"
+url = "aboutme.md"
 
 [[languages.pt-br.menu.main]]
 name = "Blog"

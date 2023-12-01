@@ -166,6 +166,11 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
+name = "uses"
+weight = 3
+url = "uses/"
+
+[[languages.en.menu.main]]
 name = "about"
 weight = 5
 url = "about.md"
@@ -181,7 +186,7 @@ author = "శ్రీరామ్ వెంకట"
 #keywords = "blog,desenvolvedor,pessoal"
 
 [[languages.pt-br.menu.main]]
-name = "Sobre"
+name = "about"
 weight = 1
 url = "about.md"
 

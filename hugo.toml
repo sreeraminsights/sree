@@ -168,12 +168,12 @@ url = "projects/"
 [[languages.en.menu.main]]
 name = "uses"
 weight = 3
-url = "uses.md"
+url = "uses/"
 
 [[languages.en.menu.main]]
 name = "aboutMe"
 weight = 5
-url = "aboutme.md"
+url = "aboutme/"
 
 [languages.pt-br]
 languageName = "Telugu"
@@ -188,7 +188,7 @@ author = "శ్రీరామ్ వెంకట"
 [[languages.pt-br.menu.main]]
 name = "aboutMe"
 weight = 1
-url = "aboutme.md"
+url = "aboutme/"
 
 [[languages.pt-br.menu.main]]
 name = "Blog"

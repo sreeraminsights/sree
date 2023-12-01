@@ -174,10 +174,11 @@ url = "uses/"
 name = "aboutMe"
 weight = 5
 url = "aboutme/"
+'''
 
-#[languages.pt-br]
-#languageName = "Telugu"
-#title = "శ్రీరామ్ వెంకట"
+[languages.pt-br]
+languageName = "Telugu"
+title = "శ్రీరామ్ వెంకట"
 
 [languages.pt-br.params]
 author = "శ్రీరామ్ వెంకట"
@@ -200,3 +201,4 @@ name = "Projects"
 weight = 3
 url = "projects/"
 
+'''

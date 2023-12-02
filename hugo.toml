@@ -176,19 +176,19 @@ weight = 5
 url = "aboutme/"
 
 
-[languages.pt-br]
-languageName = "Telugu"
-title = "శ్రీరామ్ వెంకట"
+#[languages.pt-br]
+#languageName = "Telugu"
+#title = "శ్రీరామ్ వెంకట"
 
-[languages.pt-br.params]
-author = "శ్రీరామ్ వెంకట"
+#[languages.pt-br.params]
+#author = "శ్రీరామ్ వెంకట"
 #info = "Full Stack DevOps e Mágico"
 #description = "Sítio pessoal de João Ninguém"
 #keywords = "blog,desenvolvedor,pessoal"
 
-[[languages.pt-br.menu.main]]
-name = "Interests"
-weight = 3
-url = "Interests/"
+#[[languages.pt-br.menu.main]]
+#name = "Interests"
+#weight = 3
+#url = "Interests/"
 
 

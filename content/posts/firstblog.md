@@ -1,5 +1,3 @@
-# m
-
 +++ title = "Mac terminal" date = "2023-12-02" description = "My relation with mac terminal" tags = [ "Mac", "Technical", ]  +++
 
 Let’s talk about mac terminal. So, generally Mac comes with basic and boring terminal(zsh).

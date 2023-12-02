@@ -10,8 +10,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
-noClasses = false
-
+style = "monokai"
 [params]
 author = "Sreeram"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
@@ -46,6 +45,7 @@ customJS = []
 
 # Custom remote JS files
 customRemoteJS = []
+
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 # [params.fathomAnalytics]

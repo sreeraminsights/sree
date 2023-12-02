@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 paginate = 6
 enableEmoji = true
 # Enable Disqus comments
-# disqusShortname = "yourdiscussshortname"
+disqusShortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "monokai"

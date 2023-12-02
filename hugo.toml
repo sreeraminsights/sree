@@ -187,18 +187,8 @@ author = "శ్రీరామ్ వెంకట"
 #keywords = "blog,desenvolvedor,pessoal"
 
 [[languages.pt-br.menu.main]]
-name = "aboutMe"
-weight = 1
-url = "aboutme/"
-
-[[languages.pt-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.pt-br.menu.main]]
-name = "Projects"
+name = "Interests"
 weight = 3
-url = "projects/"
+url = "Interests/"
 
 

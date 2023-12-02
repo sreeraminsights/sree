@@ -8,6 +8,7 @@ paginate = 6
 enableEmoji = true
 # Enable Disqus comments
 disqusShortname = "yourdiscussshortname"
+{{ template "_internal/disqus.html" . }}
 
 [markup.highlight]
 style = "monokai"

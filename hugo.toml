@@ -8,7 +8,8 @@ paginate = 6
 enableEmoji = true
 # Enable Disqus comments
 disqusShortname = "yourdiscussshortname"
-{{ template "_internal/disqus.html" . }}
+[params]
+  commentoURL = "https://cdn.commento.io" # Replace if you use a custom domain
 
 [markup.highlight]
 style = "monokai"

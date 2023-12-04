@@ -17,7 +17,9 @@ Almost all of the tutorials explained the same thing:
 
 Then I made my terminal mildly transparent to make it look more charming.
 
-![my img](images/s1.jpg)
+![Image](/images/s1.jpg)
+
+
 
 So, since I’m addicted to aesthetics of my terminal I wanted learn vim so that I can stick with it while coding and jotting down ideas.
 

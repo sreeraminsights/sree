@@ -8,7 +8,7 @@ tags:
   - Personal
   - Mac
   - Fun
-draft: true
+
 ---
 <!--more-->
 

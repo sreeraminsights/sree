@@ -18,7 +18,7 @@ Almost all of the tutorials explained the same thing:
 
 Then I made my terminal mildly transparent to make it look more charming.
 
-![Img](/s1.jpg)
+![Img](s1.jpg)
 
 
 
